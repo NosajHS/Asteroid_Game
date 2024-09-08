@@ -125,7 +125,7 @@ while not done:
             score += 1
             # --- DIFFICULTY
             if score <= 50:
-                    waveSpeed = 9
+                    waveSpeed = 10
             if score <= 40:
                     difficulty = 4
             if score <= 30:
